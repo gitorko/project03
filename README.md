@@ -1,6 +1,6 @@
 # Project03
 
-kotlin spring boot rest
+Kotlin Spring Boot Rest
 
 [https://github.com/gitorko/project03](https://github.com/gitorko/project03)
 
